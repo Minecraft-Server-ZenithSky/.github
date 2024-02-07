@@ -1,1 +1,1 @@
-# .github
+# popis organizace
